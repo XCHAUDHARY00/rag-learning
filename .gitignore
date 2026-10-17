@@ -1,0 +1,20 @@
+# Environment variables — KABHI PUSH MAT KARNA!
+.env
+.env.local
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS junk
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
