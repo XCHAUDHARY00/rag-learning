@@ -27,6 +27,12 @@ User Question
 [3. GENERATE]  →  LLM ko wo prompt do → Answer milta hai
 ```
 
+### RAG Pipeline Diagram 🖼️
+
+![RAG Pipeline — How it Works](./rag_pipeline_diagram.jpg)
+
+---
+
 ### Real life example 🍕
 Socho tere paas ek pizza restaurant ka menu hai (documents).  
 Customer poochta hai: *"Kya vegetarian options hain?"*
